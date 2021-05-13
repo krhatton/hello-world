@@ -1,5 +1,5 @@
 # hello-world
-This is tutorial walk-thru to understand github
+This is tutorial example walk-thru to understand github
 
 This is a test and only at test
 1+1 = 2
